@@ -120,20 +120,20 @@
   <data name="label1.Text" xml:space="preserve">
     <value>Reflex Trainer, to prosta aplikacja umożliwiająca trening 
 koncentracji, czasu reakcji, pozwala nam ona na
-poprawienie naszej znajomosci układu klawiatury oraz
+poprawienie naszej znajomości układu klawiatury oraz
 pozwala nam ona poszerzyć naszą znajomość angielskiego.
 Aplikacja wyświetla nam losowe wyrazy w języku
-angielskiem, a celem  użytkownika jest w jak najmniejszym
+angielskim, a celem  użytkownika jest w jak najmniejszym
 czasie wpisanie danego wyrazu z klawiatury. Ponadto
-pod danym wyrazem, znadjuję się jego polski odpowiednik.
+pod danym wyrazem, znajduję się jego polski odpowiednik.
 
 Po wybraniu opcji "Start" z menu użytkownika pojawia się 
 główne okno programu. Po rozpoczęciu musimy w jak 
 najniższym czasie przepisać angielskie słowo, a następnie 
 zatwierdzić je klawiszem enter lub spacją. Jeżeli będziemy 
 chcieli ponowić próbę, wystarczy kliknąć klawisz "Reset",
-a nastepnie "Start".  Każde wyświetlone słowo jest 
-odczytywane po angielsku. Funkcja ta umożliwa nam naukę
+a następnie "Start".  Każde wyświetlone słowo jest 
+odczytywane po angielsku. Funkcja ta umożliwia nam naukę
 poprawnej wymowy angielskich słów. Po zakończeniu czasu,
 wyświetlą się wyniki jakie uzyskał użytkownik, a następnie
 zostaniemy przekierowani do menu programu. W menu
